@@ -1,4 +1,8 @@
         /* Styling untuk elemen h1 */
+        header {
+            width: 100%;
+            
+        }
         h1 {
             background-color: blueviolet; /* Memberikan warna latar belakang ungu */
             padding: 10px; /* Memberikan jarak dalam elemen */
@@ -6,6 +10,7 @@
             min-width: 400px; /* Lebar minimum elemen */
             min-height: 10px; /* Tinggi minimum elemen */
             text-align: center; /* Pusatkan teks */
+            
         }
 
         /* Styling untuk elemen article */
